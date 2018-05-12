@@ -1,0 +1,30 @@
+_repo: Stories-by-American-Authors-Volume-3_31095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+tableOfContents: "The spider's eye, by Lucretia P. Hale\r\nA story of the Latin Quarter,\
+  \ by Frances Hodgson Burnett\r\nTwo purse-companions, by George Parsons Lathrop\r\
+  \nPoor ogla-moga, by David D. Lloyd\r\nA memorable murder, by Celia Thaxter\r\n\
+  Venetian glass, by Brander Matthews."
+title: Stories by American Authors, Volume 3
+url: http://www.gutenberg.org/ebooks/31095
